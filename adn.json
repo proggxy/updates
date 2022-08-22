@@ -5,8 +5,13 @@
         {
           "version": "1.421.42",
           "update_link": "https://github.com/proggxy/updates/raw/main/fce216c196f64bdabebb-1.421.42.xpi"
+        },
+        {
+          "version": "1.5.0",
+          "update_link": "https://github.com/proggxy/updates/raw/main/fce216c196f64bdabebb-1.5.0.xpi"
         }
       ]
     }
   }
 }
+
